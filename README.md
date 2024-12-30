@@ -1,5 +1,7 @@
 # Real-time-chat-app
 
+A real-time 1-1 chat application using SpringBoot and WebSocket. 
+
 Tools and Technologies used:-
 
 Backend(Server-side) - 
